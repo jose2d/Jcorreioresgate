@@ -119,13 +119,13 @@ A interface do correio organiza automaticamente os itens em categorias, facilita
 
 | Permissão | Descrição |
 |-----------|-----------|
-| `jcorreioresgate.user.correio` | `minecraft.command.correio` | Permite usar o comando /correio |
-| `jcorreioresgate.user.givargui` | `minecraft.command.givargui` | Permite usar o comando /givargui |
-| `jcorreioresgate.admin.correio` | `minecraft.command.admincorreio` | Permite enviar itens para o correio |
-| `jcorreioresgate.admin.givar` | `minecraft.command.givar` | Permite dar itens diretamente |
-| `jcorreioresgate.admin.correio.ver` | `minecraft.command.admincorreiover` | Permite ver histórico de correio |
-| `jcorreioresgate.admin.givargui` | `minecraft.command.givargui` | Permite usar a GUI admin |
-| `jcorreioresgate.admin.reload` | `minecraft.command.reload` | Permite recarregar configurações |
+| `jcorreioresgate.user.correio ou minecraft.command.correio` | Permite usar o comando /correio |
+| `jcorreioresgate.user.givargui ou minecraft.command.givargui` | Permite usar o comando /givargui |
+| `jcorreioresgate.admin.correio ou minecraft.command.admincorreio` | Permite enviar itens para o correio |
+| `jcorreioresgate.admin.givar ou minecraft.command.givar` | Permite dar itens diretamente |
+| `jcorreioresgate.admin.correio.ver ou minecraft.command.admincorreiover` | Permite ver histórico de correio |
+| `jcorreioresgate.admin.givargui ou minecraft.command.givargui` | Permite usar a GUI admin |
+| `jcorreioresgate.admin.reload ou minecraft.command.reload` | Permite recarregar configurações |
 
 ---
 
